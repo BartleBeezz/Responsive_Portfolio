@@ -189,7 +189,7 @@ header.shadow{
 }
 .services-container{
     display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(18rem,1fr));
+    grid-template-columns: repeat(auto-fit,minmax(19rem,1fr));
     gap: 1.5rem;
     margin-top: 2rem;
 }
@@ -226,7 +226,7 @@ header.shadow{
 }
 .portfolio-container{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(18rem,1fr));
+    grid-template-columns: repeat(auto-fit, minmax(19rem,1fr));
     gap: 1.5rem;
     margin-top: 2rem;
 }
